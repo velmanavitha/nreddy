@@ -1,0 +1,251 @@
+.card{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(206, 178, 232); 
+    margin-left: 150px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block
+}
+.card:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-size:2rem;
+}
+.el1{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+
+
+.card1{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(238, 183, 183); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card1:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+     
+}
+.el2{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+.card2{
+    width: 13%;
+    border-radius: 5px;
+    background-color: pink; 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+
+.card2:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+
+     
+}
+.el3{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+.card3{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(229, 221, 175); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card3:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;   
+}
+.el4{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+.card4{
+    width: 13%;
+    border-radius: 5px;
+    background-color:rgb(222, 167, 158); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card4:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal; 
+}
+.el5{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+
+.card5{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(199, 242, 199); 
+    margin-left: 150px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card5:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Playball", cursive;
+    font-weight: 400;
+    font-style: normal; 
+}
+.el6{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+.card6{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(235, 188, 188); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card6:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.el7{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+
+.card7{
+    width: 13%;
+    border-radius: 5px;
+    background-color:rgb(237, 202, 137); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card7:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.el8{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+
+.card8{
+    width: 13%;
+    border-radius: 5px;
+    background-color: rgb(246, 246, 192); 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card8:hover{
+    margin-top: -15px;
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.el9{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
+
+
+
+.card9{
+    width: 13%;
+    border-radius: 5px;
+    background-color: #BBE9FF; 
+    margin-left: 20px;
+    box-shadow: 2px 2px 2px 5px rgba(161, 158, 158, 0.233);
+    display: inline-block;
+
+}
+.card9:hover{
+    margin-top: -15px; 
+    transition: all ease-in-out 0.5s;
+    font-size:2rem;
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.el10{
+    padding:100px 0 100px 0 ;
+    text-align: center;
+
+}
